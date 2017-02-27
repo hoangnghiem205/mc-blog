@@ -36,7 +36,7 @@ gems:
   - jemoji
 
 defaults:
-    - {scope: {type: posts}, values: {layout: post, permalink : '/:year/:title/'}}
+    - {scope: {type: posts}, values: {layout: post, permalink : '/:year/:month/:title/'}}
 
 include:
   - _pages
