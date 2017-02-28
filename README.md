@@ -1,30 +1,20 @@
-# Nangka - theme for jekyll
-Just simple theme for your jekyll blog, based on default Jekyll theme.
+# OWS - Machine Learning Group
+Website tổng hợp các bài viết hay về Machine Learning và các báo cáo nghiên cứu của thành viên OWS Team
 
-### Feature
+### Tính năng
 
-- [x] **Google Analytics**
-- [x] **Jekyll Search on Archive Page**
-- [x] **Pagination**
-- [x] **404 Error Page**
-- [x] **SEO** Gems: *[jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap), [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag), [jekyll-feed](https://github.com/jekyll/jekyll-feed)*
-- [x] **Disqus Comments**
-- [x] **Ads**
-- [x] **Share Button**
+- [x] **Đăng bài**
+- [x] **Chèn video hình ảnh**
+- [x] **Format code**
+- [x] **Viết công thức toán học**
 
-### [View Demo](http://rmsubekti.github.io/nangka)
+### [View](http://hoangnghiem205.github.io/mc-blog)
 
-### Run this theme on your local machine
-To serve this jekyll theme make sure your computer meets the [following requirements](https://jekyllrb.com/docs/installation/#requirements), then run this command.
+### Đăng bài viết mới
 
 ```
-git clone git@github.com:rmsubekti/nangka.git
-cd nangka
-bundle install
-bundle exec jekyll s
+git clone https://github.com/hoangnghiem205/mc-blog.git
+cd mc-blog
+sh create_post.sh "Tieu de bai viet"
 ```
-
-You can change the site configuration in the [_config.yml](https://github.com/rmsubekti/nangka/blob/master/_config.yml) file.
-
-License : [MIT](https://github.com/rmsubekti/nangka/blob/master/LICENSE.md)
-Feel free to fork, change, modify and re-use it.
+Chỉnh sửa nội dung trong file được tạo ra trong folder `_posts`
