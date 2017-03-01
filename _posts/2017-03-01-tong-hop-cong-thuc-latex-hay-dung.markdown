@@ -6,13 +6,11 @@ categories: jekyll update
 use_math: true
 ---
 
-## Bảng sau là các công thức latex hay dùng.
-
 | Tên | Công thức | Hiển thi |
 | :--- | :--- | :--- |
 | chỉ số trên | x^3 | $$ x^3 $$ |
 | chỉ số dưới | x\_3 | $$ x_1 $$ |
-| phân số | \frac{1}{2} | $$ x_1 $$ |
+| phân số | \frac{1}{2} | $$ \frac{1}{2} $$ |
 | tích phân | \int\_1^2\(x^2+1\)dx | $$ \int_1^2(x^2+1)dx $$ |
 | đạo hàm | \frac{\partial}{\partialx} | $$ \frac{\partial f}{\partial x} $$ |
 | tổng dãy | \sum\_{i=1}^n\(x\_i\) | $$ \sum_{i=1}^nx_i $$ |
