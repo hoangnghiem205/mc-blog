@@ -8,4 +8,5 @@ use_math: true
 
 * Hồi quy tuyến tính 
 
-
+Công thức nghiệm phương trình bậc 2 $$ y = ax^2 + bx + c = 0 $$ là 
+$$\delta = b^2 - 4ac$$
