@@ -24,3 +24,5 @@ use_math: true
 | loga | \log\_1^2 | $$\log_1^2$$ |
 | ký tự hi lạp | \alpha | $$\alpha$$ |
 | nhân vô hướng ma trận | a \cdot b | $$a \cdot b$$ |
+
+# Có thể tham khảo thêm [tại đây](https://www.tutorialspoint.com/try_latex_online.php)
